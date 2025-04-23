@@ -6,7 +6,7 @@ A client-server music streaming system with GUI client and multi-threaded server
 
 ## Key Features ✨
 
-### Core Systems (by Akhil H V)
+### Core Systems 
 ⚡ **High-Performance Server**
 - Custom TCP protocol with length-prefixed messaging
 - Multi-threaded client handling (50+ concurrent connections)
@@ -17,7 +17,7 @@ A client-server music streaming system with GUI client and multi-threaded server
 - Connection timeout/retry mechanisms
 - Structured binary data packing/unpacking
 
-### Client Application (by Abhinav Wadinavar)
+### Client Application 
 🎨 **User Interface**
 - Tkinter-based GUI with playback controls
 - Album art visualization
